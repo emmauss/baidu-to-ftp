@@ -1,0 +1,21 @@
+C:\Users\cbiney\Documents\SharpDevelop Projects\baidutoftp\baidutoftp\obj\Debug\baidutoftp.csprojResolveAssemblyReference.cache
+C:\Users\cbiney\Documents\SharpDevelop Projects\baidutoftp\baidutoftp\obj\Debug\baidutoftp.MainForm.resources
+C:\Users\cbiney\Documents\SharpDevelop Projects\baidutoftp\baidutoftp\obj\Debug\baidutoftp.csproj.GenerateResource.Cache
+C:\Users\cbiney\Documents\SharpDevelop Projects\baidutoftp\baidutoftp\bin\Debug\baidutoftp.exe
+C:\Users\cbiney\Documents\SharpDevelop Projects\baidutoftp\baidutoftp\bin\Debug\baidutoftp.pdb
+C:\Users\cbiney\Documents\SharpDevelop Projects\baidutoftp\baidutoftp\obj\Debug\baidutoftp.exe
+C:\Users\cbiney\Documents\SharpDevelop Projects\baidutoftp\baidutoftp\obj\Debug\baidutoftp.pdb
+K:\baidutoftp\baidutoftp\bin\Debug\baidutoftp.exe
+K:\baidutoftp\baidutoftp\bin\Debug\baidutoftp.pdb
+K:\baidutoftp\baidutoftp\obj\Debug\baidutoftp.csprojResolveAssemblyReference.cache
+K:\baidutoftp\baidutoftp\obj\Debug\baidutoftp.MainForm.resources
+K:\baidutoftp\baidutoftp\obj\Debug\baidutoftp.csproj.GenerateResource.Cache
+K:\baidutoftp\baidutoftp\obj\Debug\baidutoftp.exe
+K:\baidutoftp\baidutoftp\obj\Debug\baidutoftp.pdb
+I:\baidutoftp\baidutoftp\bin\Debug\baidutoftp.exe
+I:\baidutoftp\baidutoftp\bin\Debug\baidutoftp.pdb
+I:\baidutoftp\baidutoftp\obj\Debug\baidutoftp.csprojResolveAssemblyReference.cache
+I:\baidutoftp\baidutoftp\obj\Debug\baidutoftp.MainForm.resources
+I:\baidutoftp\baidutoftp\obj\Debug\baidutoftp.csproj.GenerateResource.Cache
+I:\baidutoftp\baidutoftp\obj\Debug\baidutoftp.exe
+I:\baidutoftp\baidutoftp\obj\Debug\baidutoftp.pdb
